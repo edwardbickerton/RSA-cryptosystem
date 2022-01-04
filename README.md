@@ -1,7 +1,7 @@
 # RSA-cryptosystem  
   
 ## WARNING:  
-I made this mainly for my own education. I'm not a proffessional coder (at the time of writing at least) or anything and I don't study computer science. So I wouldn't use this for anything serious. Check out my blogpost on the RSA cryptosystem http://satsuma.blog/html/blog_posts/RSA_cryptosystem.html  
+I made this mainly for my own education. I'm not a proffessional coder (at the time of writing at least) or anything and I don't study computer science. So I wouldn't use this for anything serious. Check out my blogpost on the RSA cryptosystem http://Satsuma-LN.github.io/html/blog_posts/RSA_cryptosystem.html  
   
 ## Installation:  
 1. Download the three .py files. Click the green button "Code" and click "Download ZIP".  
